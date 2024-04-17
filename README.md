@@ -19,3 +19,5 @@ processing.py process the raw dataset and convert it into data that can be used 
 training_HEYU.py can train and evalute different models one by one and see the results.
 
 training_figure.py train all models at the same time and give the figure the loss, mae and mse decrease during the training process.
+
+ RF and KNN.ipynb train and evaluate the RF and KNN models one by one and see the results.
